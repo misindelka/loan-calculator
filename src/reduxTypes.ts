@@ -1,0 +1,1 @@
+export const GET_CONSTRAINTS = 'GET_CONSTRAINTS'

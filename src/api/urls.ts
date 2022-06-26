@@ -1,0 +1,2 @@
+export const constraintsAPI = "https://js-developer-second-round.herokuapp.com/api/v1/application/constraints"
+export const offerAPI=`http://js-developer-second-round.herokuapp.com/api/v1/application/first-loan-offer?&`
